@@ -8,7 +8,7 @@
   },
   "type": "module",
   "bin": {
-    "play": "game.js"
+    "play-X0": "game.js"
   },
   "author": "",
   "license": "ISC",
