@@ -11,4 +11,10 @@
 $ make install
 ```
 
+## Запуск игры
+
+```
+$ node game.js
+```
+
 [![asciicast](https://asciinema.org/a/KtlANmhVhlIY9okXPEeSzwHoD.svg)](https://asciinema.org/a/KtlANmhVhlIY9okXPEeSzwHoD)
